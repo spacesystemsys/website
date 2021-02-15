@@ -1,2 +1,2 @@
 # website
-Website com Slide
+Website Slide
